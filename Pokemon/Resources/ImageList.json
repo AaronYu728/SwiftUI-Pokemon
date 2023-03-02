@@ -1,0 +1,113 @@
+{
+    "imgArr": [
+      {
+        "id": 1,
+        "img_name": "Armarouge",
+        "str_type": "Fire",
+        "color": "red"
+      },
+      {
+        "id": 2,
+        "img_name": "Ceruledge",
+        "str_type": "Water",
+        "color": "blue"
+      },
+      {
+        "id": 3,
+        "img_name": "Cetitan",
+        "str_type": "Grass",
+        "color": "green"
+      },
+      {
+        "id": 4,
+        "img_name": "Farigiraf",
+        "str_type": "Purple",
+        "color": "purple"
+      },
+      {
+        "id": 5,
+        "img_name": "Fidough",
+        "str_type": "Cyan",
+        "color": "cyan"
+      },
+      {
+        "id": 6,
+        "img_name": "Fuecoco",
+        "str_type": "Mint",
+        "color": "mint"
+      },
+      {
+        "id": 7,
+        "img_name": "Greavard",
+        "str_type": "Orange",
+        "color": "orange"
+      },
+      {
+        "id": 8,
+        "img_name": "Klawf",
+        "str_type": "Secondary",
+        "color": "secondary"
+      },
+      {
+        "id": 9,
+        "img_name": "Koraidon",
+        "str_type": "Secondary",
+        "color": "secondary"
+      },
+      {
+        "id": 10,
+        "img_name": "Lechonk",
+        "str_type": "Secondary",
+        "color": "secondary"
+      },
+      {
+        "id": 11,
+        "img_name": "Miraidon",
+        "str_type": "Secondary",
+        "color": "secondary"
+      },
+      {
+        "id": 12,
+        "img_name": "Paldean Wooper",
+        "str_type": "Secondary",
+        "color": "secondary"
+      },
+      {
+        "id": 13,
+        "img_name": "Pawmi",
+        "str_type": "Secondary",
+        "color": "secondary"
+      },
+      {
+        "id": 14,
+        "img_name": "Pikachu",
+        "str_type": "Secondary",
+        "color": "secondary"
+      },
+      {
+        "id": 15,
+        "img_name": "Quaxly",
+        "str_type": "Secondary",
+        "color": "secondary"
+      },
+      {
+        "id": 16,
+        "img_name": "Smoliv ",
+        "str_type": "Secondary",
+        "color": "secondary"
+      },
+      {
+        "id": 17,
+        "img_name": "Sprigatito",
+        "str_type": "Secondary",
+        "color": "secondary"
+      },
+      {
+        "id": 18,
+        "img_name": "Wiglett",
+        "str_type": "Secondary",
+        "color": "secondary"
+      }
+    ]
+  }
+  
