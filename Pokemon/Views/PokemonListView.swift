@@ -19,14 +19,18 @@ struct PokemonListView: View {
         NavigationView{
             List(shareInstance.dataArr){ imgModel in
                 NavigationLink(destination: PokemonDetailView(imgModel)) {
-                    HStack{
+                    HStack {
+                        Text("") // This empty text can solve the listRowSeparator break problem in iOS 16 or later
+                        Image(imgModel.imgName)
+                            .resizable()
+                            .frame(width:40, height: 40)
+                            .clipShape(Circle())
+                            .shadow(radius: 15)
+//                        #available(iOS 16, *)
+//                            .alignmentGuide(.listRowSeparatorLeading) {$0[.leading]}
                         Text(imgModel.imgName)
-//                        Spacer()
-//                        Text(imgModel.imgType)
-//                            .foregroundColor(convertStringToColor(imgModel.color))
+                            .padding(.leading, 10)
                     }
-                    //set up background color of each cell
-        //            .background(.blue)
                 }
             }
             .navigationTitle("Pokemon")
